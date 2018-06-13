@@ -102,7 +102,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `id_seguranca`, `ip`, `nome`, `usuario`, `senha`) VALUES
-(1, '04c18bddc91548f2423a421055936ef97c96794a9daf8743a62397d6c055cf53-8623fb2e6a6e1065d23995fdc5e6de7678c414e2d54e83710c9e4ff030d41a54', '201.6.229.122', 'Rubens Flinco', 'jotinha_br', 'a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3');
+(1, '04c18bddc91548f2423a421055936ef97c96794a9daf8743a62397d6c055cf53-8623fb2e6a6e1065d23995fdc5e6de7678c414e2d54e83710c9e4ff030d41a54', '201.6.229.122', 'Rubens Flinco', 'jotinha_br', 'xxx');
 
 --
 -- Indexes for dumped tables
